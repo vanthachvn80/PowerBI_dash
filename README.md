@@ -5,4 +5,5 @@ data analytics by Power BI tool
 
 ![population-vs-GDP_by_province](https://github.com/vanthachvn80/PowerBI_dash/blob/main/GDP_population_Vietnam_wiki.png)
 
-2/ sales performance dashboard (![dashboard](https://github.com/vanthachvn80/PowerBI_dash/blob/main/sales_perfomance_PBI.png))
+2/ sales performance dashboard
+![dashboard](https://github.com/vanthachvn80/PowerBI_dash/blob/main/sales_perfomance_PBI.png)
